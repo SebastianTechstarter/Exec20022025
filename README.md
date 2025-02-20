@@ -1,4 +1,5 @@
 # Exec20022025
+
 Übung vom 20.02.2025
 
 1) Grundlegende Struktur der Webseite, die auf allen Webseiten übernommen werden soll
