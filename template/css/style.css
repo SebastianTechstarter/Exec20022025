@@ -84,3 +84,7 @@ body {
     flex-direction: column;
     gap: 30px;
 }
+
+[content] > [index-image] {
+    width: 100%;
+}
